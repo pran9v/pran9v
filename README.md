@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav Malik
-- 👀 I’m interested in CP.
-- 🌱 I’m currently learning Java(Basics)
+- 👀 I’m interested in Andoid App Dev & Open Source.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me- pran9v@gmail.com
 
 <!---
