@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav Malik
-- 👀 I’m interested in Andoid App Dev & Open Source.
+- 👀 I’m interested in Android App Dev & Open Source.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me- pran9v@gmail.com
 
