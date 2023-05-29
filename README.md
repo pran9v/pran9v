@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pranav Malik
-- 👀 I’m interested in App Dev.
-- ☑️ I've done Java and it is the primary language for DSA in my arsenal.
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in App Dev and currently learning Flutter.
+- 🌱 Apart from flutter, I know java and c++.
 - 📫 How to reach me- pran9v@gmail.com
 
 
