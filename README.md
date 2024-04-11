@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pranav Malik
-- 👀 Machine learning, web dev.
+- 👀 Learning React at this moment
 - 🌱 python, java.
 - 📫 How to reach me- pran9v@gmail.com
