@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Pranav Malik
-- 👀 Learning React at this moment
-- 🌱 python, java.
+- 🌱 i do java.
 - 📫 How to reach me- pran9v@gmail.com
