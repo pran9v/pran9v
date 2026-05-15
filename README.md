@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Pranav Malik
-- 🌱 i vibecode and do java.
-- 📫 How to reach me- pran9v@gmail.com
+- Hi, I’m Pranav
+- i do java
